@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "karg.API", "karg.API.csproj", "{0A6BD0BA-8784-4C56-8E43-E0C5A71EEDE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "karg.DAL", "..\karg.DAL\karg.DAL.csproj", "{95EE82DD-829E-47C3-9731-A9CB5FE6DAB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "karg.BLL", "..\karg.BLL\karg.BLL.csproj", "{62703045-5F95-4D9D-8821-B404CAB20D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6BD0BA-8784-4C56-8E43-E0C5A71EEDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6BD0BA-8784-4C56-8E43-E0C5A71EEDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6BD0BA-8784-4C56-8E43-E0C5A71EEDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6BD0BA-8784-4C56-8E43-E0C5A71EEDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EE82DD-829E-47C3-9731-A9CB5FE6DAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EE82DD-829E-47C3-9731-A9CB5FE6DAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EE82DD-829E-47C3-9731-A9CB5FE6DAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EE82DD-829E-47C3-9731-A9CB5FE6DAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62703045-5F95-4D9D-8821-B404CAB20D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62703045-5F95-4D9D-8821-B404CAB20D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62703045-5F95-4D9D-8821-B404CAB20D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62703045-5F95-4D9D-8821-B404CAB20D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ACCB459-6B0B-4AEE-AED9-58132034A8F0}
+	EndGlobalSection
+EndGlobal
